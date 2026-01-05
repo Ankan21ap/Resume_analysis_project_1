@@ -1,2 +1,0 @@
-# Resume_analysis_project
-Resume_analysis_project

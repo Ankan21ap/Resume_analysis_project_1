@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume and  Career Coach",
+  "description": "A comprehensive career optimization platform featuring anonymous authentication, Firestore data persistence, and Gemini-powered resume scoring, skill gap analysis, and personalized career roadmaps.",
+  "requestFramePermissions": []
+}
